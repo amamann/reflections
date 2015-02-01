@@ -1,0 +1,5 @@
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Contains files ready to be commited but not yet in repositary.  Means you don't have to add all files in directory.
+
+test
