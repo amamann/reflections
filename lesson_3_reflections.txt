@@ -1,1 +1,2 @@
 When would you want to use a remote repository rather than keeping all your work local?
+Keep a backup.  Allows others to pull and work on code as a team.  Can access from other places.
